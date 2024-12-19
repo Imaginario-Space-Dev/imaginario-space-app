@@ -1,0 +1,32 @@
+{
+  "name": "imaginario-space",
+  "version": "1.0.0",
+  "description": "Imaginario Space app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server",
+    "build": "npm install --prefix ./client && npm run build --prefix ./client && npm install"
+  },
+  "author": "Rogerio Ngudiangani",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.1",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.5.2",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.14",
+    "slugify": "^1.6.6",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

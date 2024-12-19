@@ -1,0 +1,27 @@
+[
+	{
+		"notifyingId": "66b7e89e400aeefa178a3260",
+		"notifiedId": "66b80220cd6d89ca17a61240",
+		"fromCollab": "66c3cdcaad7a05d370a21ed4",
+		"type": "book",
+		"action": "like",
+		"visibility": "show",
+		"message": "Your book got a like",
+		"promotion": 10,
+		"notifiedIdViewed": false,
+		"collabOwnerViewed": false
+	  },
+      {
+		"notifyingId": "66b80220cd6d89ca17a61240",
+		"notifiedId": "66b7e89e400aeefa178a3260",
+		"fromCollab": "66c3cdcaad7a05d370a21ed4",
+		"type": "book",
+		"action": "like",
+		"visibility": "show",
+		"message": "Your book got a like",
+		"promotion": 10,
+		"notifiedIdViewed": false,
+		"collabOwnerViewed": false
+	  }
+	
+]

@@ -1,0 +1,202 @@
+[
+	{
+	  "username": "Sofia Lopes",
+	  "spaceName": "@sofilopes",
+	  "email": "sofilopes@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "English", "Management"]
+	},
+	{
+	  "username": "Pedro Oliveira",
+	  "spaceName": "@pedrooliveira",
+	  "email": "pedrooliveira@gmail.com",
+	  "role": "regular",
+	  "password": "123456",
+	  "category": ["Finance"]
+	},
+	{
+	  "username": "Marta Cunha",
+	  "spaceName": "@martacunha",
+	  "email": "martacunha@gmail.com",
+	  "role": "collaborator",
+	  "password": "123456",
+	  "category": ["Management", "Finance"]
+	},
+	{
+	  "username": "Tiago Almeida",
+	  "spaceName": "@tiagoalmeida",
+	  "email": "tiagoalmeida@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["IT", "Finance"]
+	},
+	{
+	  "username": "Rita Figueiredo",
+	  "spaceName": "@ritafigu",
+	  "email": "ritafigu@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["English", "Finance", "Influencer"]
+	},
+	{
+	  "username": "Carlos Santos",
+	  "spaceName": "@carlossantos",
+	  "email": "carlossantos@gmail.com",
+	  "role": "regular",
+	  "password": "123456",
+	  "category": ["Finance", "IT"]
+	},
+	{
+	  "username": "Patrícia Pinto",
+	  "spaceName": "@patriciapinto",
+	  "email": "patriciapinto@gmail.com",
+	  "role": "collaborator",
+	  "password": "123456",
+	  "category": ["Finance", "Dev"]
+	},
+	{
+	  "username": "André Marques",
+	  "spaceName": "@andremarques",
+	  "email": "andremarques@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "Management"]
+	},
+	{
+	  "username": "Inês Teixeira",
+	  "spaceName": "@inesteixeira",
+	  "email": "inesteixeira@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "English", "Influencer"]
+	},
+	{
+	  "username": "Filipe Rocha",
+	  "spaceName": "@filiperocha",
+	  "email": "filiperocha@gmail.com",
+	  "role": "regular",
+	  "password": "123456",
+	  "category": ["Finance"]
+	},
+	{
+	  "username": "Beatriz Vieira",
+	  "spaceName": "@beatrizvieira",
+	  "email": "beatrizvieira@gmail.com",
+	  "role": "collaborator",
+	  "password": "123456",
+	  "category": ["Finance", "Dev"]
+	},
+	{
+	  "username": "Manuel Neves",
+	  "spaceName": "@manuelneves",
+	  "email": "manuelneves@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "English", "IT"]
+	},
+	{
+	  "username": "Raquel Martins",
+	  "spaceName": "@raquelmartins",
+	  "email": "raquelmartins@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "Influencer", "Management"]
+	},
+	{
+	  "username": "Bruno Fonseca",
+	  "spaceName": "@brunofonseca",
+	  "email": "brunofonseca@gmail.com",
+	  "role": "regular",
+	  "password": "123456",
+	  "category": ["Finance"]
+	},
+	{
+	  "username": "Sara Azevedo",
+	  "spaceName": "@saraazevedo",
+	  "email": "saraazevedo@gmail.com",
+	  "role": "collaborator",
+	  "password": "123456",
+	  "category": ["Finance", "IT"]
+	},
+	{
+	  "username": "Vasco Nogueira",
+	  "spaceName": "@vasconogueira",
+	  "email": "vasconogueira@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "English"]
+	},
+	{
+	  "username": "Helena Lima",
+	  "spaceName": "@helenalima",
+	  "email": "helenalima@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "Dev"]
+	},
+	{
+	  "username": "Joana Magalhães",
+	  "spaceName": "@joanamagalhaes",
+	  "email": "joanamagalhaes@gmail.com",
+	  "role": "regular",
+	  "password": "123456",
+	  "category": ["Finance"]
+	},
+	{
+	  "username": "Gonçalo Ramos",
+	  "spaceName": "@goncaloramos",
+	  "email": "goncaloramos@gmail.com",
+	  "role": "collaborator",
+	  "password": "123456",
+	  "category": ["Finance", "IT", "Management"]
+	},
+	{
+	  "username": "Mariana Coelho",
+	  "spaceName": "@marianacoelho",
+	  "email": "marianacoelho@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "Influencer"]
+	},
+	{
+	  "username": "Henrique Correia",
+	  "spaceName": "@henriquecorreia",
+	  "email": "henriquecorreia@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "English", "Management"]
+	},
+	{
+	  "username": "Luís Matos",
+	  "spaceName": "@luismatos",
+	  "email": "luismatos@gmail.com",
+	  "role": "regular",
+	  "password": "123456",
+	  "category": ["Finance"]
+	},
+	{
+	  "username": "Cláudia Fernandes",
+	  "spaceName": "@claudiafernandes",
+	  "email": "claudiafernandes@gmail.com",
+	  "role": "collaborator",
+	  "password": "123456",
+	  "category": ["Finance", "IT"]
+	},
+	{
+	  "username": "Eduardo Pires",
+	  "spaceName": "@eduardopires",
+	  "email": "eduardopires@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "Dev", "English"]
+	},
+	{
+	  "username": "Teresa Sousa",
+	  "spaceName": "@teresousa",
+	  "email": "teresousa@gmail.com",
+	  "role": "publisher",
+	  "password": "123456",
+	  "category": ["Finance", "Influencer", "Management"]
+	}
+  ]

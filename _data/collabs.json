@@ -1,0 +1,27 @@
+[
+	{	
+		"_id": "66c3cdcaad7a05d370a21ed4",
+		"collabOwner": "66b7e89e400aeefa178a3260",
+		"author": "66b7e89e400aeefa178a3260",
+		"bookCreatedBy": "66b7e89e400aeefa178a3260",
+		"visibility": "hidden",
+		"status": "pending",
+		"desc": "this is a beautiful collab description",
+		"coverImage": "picture-here",
+		"type": "book",
+		"book": "66b14380caf128048b16b5a8"
+	  },
+      {	
+		"_id": "66c3cdcaad7a05d370a21ed3",
+		"collabOwner": "66b80220cd6d89ca17a61240",
+		"author": "66b80220cd6d89ca17a61240",
+		"bookCreatedBy": "66b80220cd6d89ca17a61240",
+		"visibility": "hidden",
+		"status": "pending",
+		"desc": "this is a beautiful collab description",
+		"coverImage": "picture-here",
+		"type": "book",
+		"book": "66b14379caf128048b16b5a6"
+	  }
+	
+]
